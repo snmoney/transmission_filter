@@ -1,0 +1,7 @@
+{
+    "filter":[".url",".mht",".txt",".chm",".bmp",".gif","_____padding_file_"], 
+    "blacklist":"blacklist.txt", 
+    "blacklist_enabled": 0,
+    "upload_limited": 10,
+    "debug": 0    
+}
